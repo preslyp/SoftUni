@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\bin\Debug\HelloConsole.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb

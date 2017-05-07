@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ConsoleInputAndOutputHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

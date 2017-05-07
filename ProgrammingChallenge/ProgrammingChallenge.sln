@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPrinciplesPartOne", "OOPPrinciplesPartOne\OOPPrinciplesPartOne.csproj", "{4999988B-07EA-4BE6-AD3A-666B233ECA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{3236D761-223A-4D14-A493-BEF361A22E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pococlass", "Pococlass\Pococlass.csproj", "{6641F11B-DB48-41FE-8D48-7126902E8037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4999988B-07EA-4BE6-AD3A-666B233ECA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4999988B-07EA-4BE6-AD3A-666B233ECA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4999988B-07EA-4BE6-AD3A-666B233ECA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4999988B-07EA-4BE6-AD3A-666B233ECA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3236D761-223A-4D14-A493-BEF361A22E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3236D761-223A-4D14-A493-BEF361A22E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3236D761-223A-4D14-A493-BEF361A22E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3236D761-223A-4D14-A493-BEF361A22E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6641F11B-DB48-41FE-8D48-7126902E8037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6641F11B-DB48-41FE-8D48-7126902E8037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6641F11B-DB48-41FE-8D48-7126902E8037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6641F11B-DB48-41FE-8D48-7126902E8037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

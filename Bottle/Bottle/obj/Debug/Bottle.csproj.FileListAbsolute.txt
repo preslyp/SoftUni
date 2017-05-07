@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\bin\Debug\Bottle.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\obj\Debug\Bottle.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\bin\Debug\Bottle.exe
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\bin\Debug\Bottle.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\obj\Debug\Bottle.exe
+c:\users\pancho\documents\visual studio 2013\Projects\Bottle\Bottle\obj\Debug\Bottle.pdb

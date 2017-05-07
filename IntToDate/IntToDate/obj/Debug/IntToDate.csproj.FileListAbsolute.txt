@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\IntToDate\IntToDate\bin\Debug\IntToDate.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\IntToDate\IntToDate\bin\Debug\IntToDate.exe
+c:\users\pancho\documents\visual studio 2013\Projects\IntToDate\IntToDate\bin\Debug\IntToDate.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\IntToDate\IntToDate\obj\Debug\IntToDate.exe
+c:\users\pancho\documents\visual studio 2013\Projects\IntToDate\IntToDate\obj\Debug\IntToDate.pdb

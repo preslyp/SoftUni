@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\UpAndRunning\CarDemo\bin\Debug\CarDemo.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\UpAndRunning\CarDemo\bin\Debug\CarDemo.exe
+c:\users\pancho\documents\visual studio 2013\Projects\UpAndRunning\CarDemo\bin\Debug\CarDemo.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\UpAndRunning\CarDemo\obj\Debug\CarDemo.exe
+c:\users\pancho\documents\visual studio 2013\Projects\UpAndRunning\CarDemo\obj\Debug\CarDemo.pdb

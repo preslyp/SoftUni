@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\obj\Debug\DetectiveBoev.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+c:\users\pancho\documents\visual studio 2013\Projects\DetectiveBoev\DetectiveBoev\obj\Debug\DetectiveBoev.pdb

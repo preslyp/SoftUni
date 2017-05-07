@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Point3D", "01.Point3D\01.Point3D.csproj", "{437E1E4D-2741-4FD4-813F-3DCC4D8542CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Geometry", "05.Geometry\05.Geometry.csproj", "{F94DBE25-79DC-4287-9B54-9AC3EB732AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DistanceCalculator", "02.DistanceCalculator\02.DistanceCalculator.csproj", "{747CDCB3-D22F-4336-BEE9-F34598AC6526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Paths", "03.Paths\03.Paths.csproj", "{DE33B632-D24A-4B75-8202-A216C57BE8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437E1E4D-2741-4FD4-813F-3DCC4D8542CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437E1E4D-2741-4FD4-813F-3DCC4D8542CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437E1E4D-2741-4FD4-813F-3DCC4D8542CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437E1E4D-2741-4FD4-813F-3DCC4D8542CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94DBE25-79DC-4287-9B54-9AC3EB732AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94DBE25-79DC-4287-9B54-9AC3EB732AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94DBE25-79DC-4287-9B54-9AC3EB732AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94DBE25-79DC-4287-9B54-9AC3EB732AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747CDCB3-D22F-4336-BEE9-F34598AC6526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747CDCB3-D22F-4336-BEE9-F34598AC6526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747CDCB3-D22F-4336-BEE9-F34598AC6526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747CDCB3-D22F-4336-BEE9-F34598AC6526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE33B632-D24A-4B75-8202-A216C57BE8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE33B632-D24A-4B75-8202-A216C57BE8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE33B632-D24A-4B75-8202-A216C57BE8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE33B632-D24A-4B75-8202-A216C57BE8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

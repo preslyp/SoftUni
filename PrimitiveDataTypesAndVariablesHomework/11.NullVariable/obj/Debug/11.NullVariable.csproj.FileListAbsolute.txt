@@ -1,0 +1,5 @@
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\11.NullVariable\bin\Debug\11.NullVariable.exe.config
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\11.NullVariable\bin\Debug\11.NullVariable.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\11.NullVariable\bin\Debug\11.NullVariable.pdb
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\11.NullVariable\obj\Debug\11.NullVariable.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariablesHomework\11.NullVariable\obj\Debug\11.NullVariable.pdb

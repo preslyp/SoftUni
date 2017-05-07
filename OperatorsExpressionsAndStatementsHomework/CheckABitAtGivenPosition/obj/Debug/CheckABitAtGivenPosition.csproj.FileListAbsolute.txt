@@ -1,0 +1,5 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

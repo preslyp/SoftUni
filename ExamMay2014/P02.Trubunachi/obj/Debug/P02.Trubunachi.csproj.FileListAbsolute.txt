@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\bin\Debug\P02.Trubunachi.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\obj\Debug\P02.Trubunachi.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\bin\Debug\P02.Trubunachi.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\bin\Debug\P02.Trubunachi.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\obj\Debug\P02.Trubunachi.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ExamMay2014\P02.Trubunachi\obj\Debug\P02.Trubunachi.pdb

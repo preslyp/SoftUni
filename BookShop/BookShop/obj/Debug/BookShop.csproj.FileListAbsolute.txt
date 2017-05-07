@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Debug\BookShop.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Debug\BookShop.exe
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Debug\BookShop.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.exe
+c:\users\pancho\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb

@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\bin\Debug\NumbersWithNestedIfs.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\bin\Debug\NumbersWithNestedIfs.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\bin\Debug\NumbersWithNestedIfs.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\obj\Debug\NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\obj\Debug\NumbersWithNestedIfs.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\NumbersWithNestedIfs\obj\Debug\NumbersWithNestedIfs.pdb

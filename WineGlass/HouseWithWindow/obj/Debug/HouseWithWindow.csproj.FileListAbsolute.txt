@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\bin\Debug\HouseWithWindow.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\bin\Debug\HouseWithWindow.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\bin\Debug\HouseWithWindow.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\obj\Debug\HouseWithWindow.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\obj\Debug\HouseWithWindow.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\HouseWithWindow\obj\Debug\HouseWithWindow.pdb

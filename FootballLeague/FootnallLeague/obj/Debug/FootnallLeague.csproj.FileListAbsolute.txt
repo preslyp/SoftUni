@@ -1,0 +1,7 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\bin\Debug\FootnallLeague.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\bin\Debug\FootnallLeague.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\bin\Debug\FootnallLeague.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\bin\Debug\FootnallLeague.exe.CodeAnalysisLog.xml
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\bin\Debug\FootnallLeague.exe.lastcodeanalysissucceeded
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\obj\Debug\FootnallLeague.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\FootballLeague\FootnallLeague\obj\Debug\FootnallLeague.pdb

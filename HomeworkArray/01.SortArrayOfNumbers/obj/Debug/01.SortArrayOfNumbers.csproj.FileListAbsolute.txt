@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HomeworkArray\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.pdb

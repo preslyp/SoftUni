@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\InheritanceAndAbstraction\Abstraction\obj\Debug\Abstraction.pdb

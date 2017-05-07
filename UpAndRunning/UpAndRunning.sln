@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{A063B2E8-AA21-43CF-B5AF-0838E2186A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDemo", "CarDemo\CarDemo.csproj", "{FE903A20-1139-4D57-948B-4C6E19341966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClass", "DefiningClass\DefiningClass.csproj", "{C5C26C8E-5447-4EE7-B9B0-AD287E636C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A063B2E8-AA21-43CF-B5AF-0838E2186A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A063B2E8-AA21-43CF-B5AF-0838E2186A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A063B2E8-AA21-43CF-B5AF-0838E2186A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A063B2E8-AA21-43CF-B5AF-0838E2186A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE903A20-1139-4D57-948B-4C6E19341966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE903A20-1139-4D57-948B-4C6E19341966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE903A20-1139-4D57-948B-4C6E19341966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE903A20-1139-4D57-948B-4C6E19341966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C26C8E-5447-4EE7-B9B0-AD287E636C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C26C8E-5447-4EE7-B9B0-AD287E636C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C26C8E-5447-4EE7-B9B0-AD287E636C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C26C8E-5447-4EE7-B9B0-AD287E636C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

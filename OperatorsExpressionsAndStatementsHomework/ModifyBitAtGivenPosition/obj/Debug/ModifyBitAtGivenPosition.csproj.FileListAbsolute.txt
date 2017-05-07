@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb

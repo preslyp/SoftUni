@@ -1,0 +1,9 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="HelloWpf.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="txtHello" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Hello,Word!" VerticalAlignment="Top" Height="55" Width="485" FontSize="36"/>
+    </Grid>
+</Window>

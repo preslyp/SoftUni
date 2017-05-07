@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\Headphones\Headphones\bin\Debug\Headphones.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\Headphones\Headphones\bin\Debug\Headphones.exe
+c:\users\pancho\documents\visual studio 2013\Projects\Headphones\Headphones\bin\Debug\Headphones.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\Headphones\Headphones\obj\Debug\Headphones.exe
+c:\users\pancho\documents\visual studio 2013\Projects\Headphones\Headphones\obj\Debug\Headphones.pdb

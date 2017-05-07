@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\bin\Debug\PandaFlag.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\bin\Debug\PandaFlag.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\bin\Debug\PandaFlag.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\obj\Debug\PandaFlag.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\obj\Debug\PandaFlag.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\WineGlass\PandaFlag\obj\Debug\PandaFlag.pdb

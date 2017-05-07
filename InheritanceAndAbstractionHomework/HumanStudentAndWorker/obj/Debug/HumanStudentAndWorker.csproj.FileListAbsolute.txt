@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\InheritanceAndAbstractionHomework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\InheritanceAndAbstractionHomework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe
+c:\users\pancho\documents\visual studio 2013\Projects\InheritanceAndAbstractionHomework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\InheritanceAndAbstractionHomework\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.exe
+c:\users\pancho\documents\visual studio 2013\Projects\InheritanceAndAbstractionHomework\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.pdb

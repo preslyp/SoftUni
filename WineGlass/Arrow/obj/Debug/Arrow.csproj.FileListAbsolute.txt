@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\WineGlass\Arrow\bin\Debug\Arrow.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\WineGlass\Arrow\bin\Debug\Arrow.exe
+c:\users\pancho\documents\visual studio 2013\Projects\WineGlass\Arrow\bin\Debug\Arrow.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\WineGlass\Arrow\obj\Debug\Arrow.exe
+c:\users\pancho\documents\visual studio 2013\Projects\WineGlass\Arrow\obj\Debug\Arrow.pdb

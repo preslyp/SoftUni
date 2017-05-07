@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{704F40F8-EAF3-4A55-A67E-13486AD1C731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootnallLeague", "FootnallLeague\FootnallLeague.csproj", "{4808F2F7-2763-4D15-8E53-159442F901AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4808F2F7-2763-4D15-8E53-159442F901AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4808F2F7-2763-4D15-8E53-159442F901AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4808F2F7-2763-4D15-8E53-159442F901AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4808F2F7-2763-4D15-8E53-159442F901AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4808F2F7-2763-4D15-8E53-159442F901AD} = {704F40F8-EAF3-4A55-A67E-13486AD1C731}
+	EndGlobalSection
+EndGlobal

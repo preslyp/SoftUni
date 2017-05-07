@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\bin\Debug\Pococlass.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\bin\Debug\Pococlass.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\bin\Debug\Pococlass.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\obj\Debug\Pococlass.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\obj\Debug\Pococlass.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Pococlass\obj\Debug\Pococlass.pdb

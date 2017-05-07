@@ -1,0 +1,1 @@
+c:\users\pancho\documents\visual studio 2013\Projects\NewFootbalLeague\Football\bin\Debug\Football.exe.config

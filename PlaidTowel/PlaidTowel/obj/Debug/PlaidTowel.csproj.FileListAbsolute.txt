@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\PlaidTowel\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PlaidTowel\PlaidTowel\bin\Debug\PlaidTowel.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PlaidTowel\PlaidTowel\bin\Debug\PlaidTowel.pdb
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PlaidTowel\PlaidTowel\obj\Debug\PlaidTowel.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PlaidTowel\PlaidTowel\obj\Debug\PlaidTowel.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\PlaidTowel\PlaidTowel\obj\Debug\PlaidTowel.pdb

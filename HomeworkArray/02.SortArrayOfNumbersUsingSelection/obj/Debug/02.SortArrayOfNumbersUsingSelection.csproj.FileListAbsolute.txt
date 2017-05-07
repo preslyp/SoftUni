@@ -1,0 +1,6 @@
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\bin\Debug\02.SortArrayOfNumbersUsingSelection.exe.config
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\bin\Debug\02.SortArrayOfNumbersUsingSelection.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\bin\Debug\02.SortArrayOfNumbersUsingSelection.pdb
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\obj\Debug\02.SortArrayOfNumbersUsingSelection.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\obj\Debug\02.SortArrayOfNumbersUsingSelection.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\HomeworkArray\02.SortArrayOfNumbersUsingSelection\obj\Debug\02.SortArrayOfNumbersUsingSelection.pdb

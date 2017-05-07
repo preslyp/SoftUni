@@ -1,0 +1,13 @@
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\bin\Debug\HelloWpf.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\bin\Debug\HelloWpf.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\bin\Debug\HelloWpf.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.csprojResolveAssemblyReference.cache
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\MainWindow.baml
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\MainWindow.g.cs
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\App.g.cs
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf_MarkupCompile.cache
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.g.resources
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.Properties.Resources.resources
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.csproj.GenerateResource.Cache
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.exe
+c:\users\pancho\documents\visual studio 2013\Projects\HelloWpf\HelloWpf\obj\Debug\HelloWpf.pdb

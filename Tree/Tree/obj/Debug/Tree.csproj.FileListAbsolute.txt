@@ -1,0 +1,6 @@
+c:\users\pancho\documents\visual studio 2013\Projects\Tree\Tree\bin\Debug\Tree.exe.config
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\Tree\Tree\bin\Debug\Tree.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\Tree\Tree\bin\Debug\Tree.pdb
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\Tree\Tree\obj\Debug\Tree.exe
+C:\Users\Pancho\Documents\Visual Studio 2013\Projects\Tree\Tree\obj\Debug\Tree.pdb

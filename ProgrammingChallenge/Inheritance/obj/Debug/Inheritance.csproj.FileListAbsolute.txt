@@ -1,0 +1,6 @@
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Pancho\documents\visual studio 2013\Projects\ProgrammingChallenge\Inheritance\obj\Debug\Inheritance.pdb

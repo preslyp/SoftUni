@@ -1,0 +1,5 @@
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+c:\users\pancho\documents\visual studio 2013\Projects\ConditionalStatementsHomework\MultiplicationSign\obj\Debug\MultiplicationSign.pdb
